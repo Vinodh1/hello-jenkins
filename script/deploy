@@ -5,6 +5,6 @@
   git pull
   npm install --production
   node app.js
-#  forever restartall
+  forever restartall
   exit
 EOF
